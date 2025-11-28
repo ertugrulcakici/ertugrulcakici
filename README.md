@@ -100,13 +100,13 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ertugrulcakici&show_icons=true&locale=en&layout=compact" alt="ertugrulcakici" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ertugrulcakici&show_icons=true&locale=en&layout=compact&count_private=true" alt="ertugrulcakici" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ertugrulcakici&show_icons=true&locale=en" alt="ertugrulcakici" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ertugrulcakici&show_icons=true&locale=en&count_private=true" alt="ertugrulcakici" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ertugrulcakici&" alt="ertugrulcakici" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ertugrulcakici" alt="ertugrulcakici" />
 </p>
